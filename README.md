@@ -1,8 +1,6 @@
-# Cook This Not That
+# Milestone 1
 
-## Milestone 1
-
-### Objectives
+## Objectives
   * Who are the users?
     * Anyone who cooks, does grocery shopping 
   * Why is the problem important?
@@ -19,7 +17,7 @@
     * Substitutions for certain ingredients could fail for certain dishes 
     * Substitutions can be somewhat subjective.
       * Potential solution: allow community suggestions/voting.
-### Task 
+## Task 
   * Potential users? Not targeted user? Why? 
     * Cooks, people with dietary restrictions, people who do not have ready access to exotic/specialized ingredients.
     * Not targeting those we are not sensitive to ingredient choice.
@@ -40,7 +38,7 @@
     * Age range likely 18+; anyone who goes shopping for groceries.
     * Wealthier more likely to use platform; more able to purchase alternatives that may be more expensive.
 
-## Milestone 2
+# Milestone 2
 * Pages (defined as team):
   * Main menu / home
     * Search functionality
@@ -75,25 +73,25 @@
   * Group name
   * Show all 3 design alternatives (sketches, mocks, sbs)
 
-### Design Process
+## Design Process
 
 To ensure a smooth design process, we first spent some time listing out each necessary view in the app (shown above), thought carefully about the implications of adding features, and planned out how we’d create each design.
 Starting the actual drawing with a storyboard (described later) would allow us to see how complex we were making things and was a good place to trim unnecessary clutter. After deciding on the key features we wanted our app to have, we moved on to creating sketches for each view. Each view needed three unique sketches that showed variation in design choices -- these choices are described later in the report. Finally, after choosing the best sketch of each view in the app, we created a single software mockup for each view, allowing us to more accurately visualize what the first iteration of the app will look like.
 
-### Storyboard
+## Storyboard
 
 We decided to visualize the three main user flows in the application, defined as:
 1. Searching for a recipe you already have in mind and replacing an ingredient,
 2. Browsing the recipe finder to replace an ingredient, 
 3. And going back to recipes saved as favorites in the past to replace an ingredient
 
-### Sketches
+## Sketches
 
 ![sketch1](images/sketch1.png)
 ![sketch2](images/sketch2.png)
 ![sketch3](images/sketch3.png)
 
-### Mockups
+## Mockups
 
 The mockups below are of the design that the group felt made the most sense for the user. We wanted something more intuitive and easier to use. We need to add a toolbar towards the bottom for each screen and a back button as well. We will also need to increase the font size of the descriptions underneath each photo of the results page as to show that the dishes are different despite them having similar photos. Walking through the app, the homepage will have categories, favorites and featured where categories will list out all dietary restrictions plus other categories we will add later like entrees and desserts. The favorites when pressed from the homepage, will take you to all the recipes that the user has favorited. Featured will have a curated list of dishes put together by the team. The search bar at the top will allow the user to type in a type of food such as salmon as shown in our mockup below and will display all items containing this food. If you press the thumbnail, you’ll be taken to a larger display of the recipe as shown in the 6th screen. The highlighted blue text will be hyperlinks that you can press that will display a modal pop up that provides ingredient alternatives to that food along with other information in a separate tab.
  
