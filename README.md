@@ -85,11 +85,17 @@ We decided to visualize the three main user flows in the application, defined as
 2. Browsing the recipe finder to replace an ingredient, 
 3. And going back to recipes saved as favorites in the past to replace an ingredient
 
+![storyboard1](images/storyboard1.png)
+![storyboard2](images/storyboard2.png)
+
 ## Sketches
 
 ![sketch1](images/sketch1.png)
 ![sketch2](images/sketch2.png)
 ![sketch3](images/sketch3.png)
+![sketch4](images/sketch4.png)
+![sketch5](images/sketch5.png)
+![sketch6](images/sketch6.png)
 
 ## Mockups
 
