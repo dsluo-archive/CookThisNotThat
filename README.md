@@ -109,7 +109,7 @@ The mockups below are of the design that the group felt made the most sense for 
 ![recipe](images/recipe.png)
 ![alternatives](images/alternatives.png)
 
-#Milestone 3
+# Milestone 3
 
 ## System in Action
 
