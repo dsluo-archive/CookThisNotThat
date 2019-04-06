@@ -180,9 +180,10 @@ https://xd.adobe.com/view/32284166-1bf7-49c8-7a9d-7f25d4390f3c-4419/
     * Strongly disagree/disagree/agree/strongly agree
   * What did you like about the system?
   * What did you dislike?
+  * What are some functions you think need improvement?
 
 ## Other Evaluation Techniques
-  * Record screen
+  * Record screen and user for feedback
   * Semi-Structured interview 
   * We get the info we really need to cover
   * We get to hear from user experience with the system 
