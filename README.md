@@ -150,11 +150,11 @@ https://xd.adobe.com/view/32284166-1bf7-49c8-7a9d-7f25d4390f3c-4419/
       * All actions should consider user error
       * Get user rating of ingredient substitutions in recipe
 
-## Subjective Question for Users to Critique the System
+### Subjective Question for Users to Critique the System
   * What parts of the UI stood out to you?
   * Are there any confusing parts of the system?
 
-## Interview Questions to Ask Users Before Using System
+### Interview Questions to Ask Users Before Using System
   * How frequently do you seek out dietary substitutions?
     * Never
     * Once a month
@@ -172,7 +172,7 @@ https://xd.adobe.com/view/32284166-1bf7-49c8-7a9d-7f25d4390f3c-4419/
     * Are adequate
     * Are best in class
 
-## Interview Questions to Ask Users After Using System
+### Interview Questions to Ask Users After Using System
   * What system would be most comparable to this one (if any)?
   * Agree/disagree: The system is easy to use.
     * Strongly disagree/disagree/agree/strongly agree
@@ -182,7 +182,7 @@ https://xd.adobe.com/view/32284166-1bf7-49c8-7a9d-7f25d4390f3c-4419/
   * What did you dislike?
   * What are some functions you think need improvement?
 
-## Other Evaluation Techniques
+### Other Evaluation Techniques
   * Record screen and user for feedback
   * Semi-Structured interview 
   * We get the info we really need to cover
