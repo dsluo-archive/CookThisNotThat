@@ -116,7 +116,7 @@ The mockups below are of the design that the group felt made the most sense for 
 
 </details>
 
-# Milestone 3
+#Milestone 3
 <details><summary></summary>
 
 ## System in Action
