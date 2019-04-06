@@ -1,5 +1,4 @@
 # Milestone 1
-<details><summary></summary>
 
 ## Objectives
   * Who are the users?
@@ -39,11 +38,7 @@
     * Age range likely 18+; anyone who goes shopping for groceries.
     * Wealthier more likely to use platform; more able to purchase alternatives that may be more expensive.
 
-</details>
-
 # Milestone 2
-<details><summary></summary>
-
 * Pages (defined as team):
   * Main menu / home
     * Search functionality
@@ -114,10 +109,7 @@ The mockups below are of the design that the group felt made the most sense for 
 ![recipe](images/recipe.png)
 ![alternatives](images/alternatives.png)
 
-</details>
-
 #Milestone 3
-<details><summary></summary>
 
 ## System in Action
 
@@ -194,8 +186,6 @@ https://xd.adobe.com/view/32284166-1bf7-49c8-7a9d-7f25d4390f3c-4419/
   * Semi-Structured interview 
   * We get the info we really need to cover
   * We get to hear from user experience with the system 
-
-  </details>
 
 
 
