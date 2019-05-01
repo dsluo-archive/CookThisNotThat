@@ -190,7 +190,7 @@ https://xd.adobe.com/view/32284166-1bf7-49c8-7a9d-7f25d4390f3c-4419/
 
 # Milestone 4
 
-<object data="milestone4.pdf" type="application/pdf" width="690px" height="1000px">
+<object data="milestone4.pdf" type="application/pdf" width="940px" height="1200px">
     <embed src="milestone4.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="milestone4.pdf">Download PDF</a>.</p>
     </embed>
